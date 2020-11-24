@@ -82,13 +82,11 @@ To detect emotions from what is verbally said in a video using IBM Watson and NR
 mp4_to_emotion.py
 ```
 
-To generate adversarial FER images, try the jupyter notebook `Adversarial_FER.ipynb` in the `Adversarial_FER` folder
-
 To detect emotions in realtime
 ```
 all the file-names that start with: realtime_emotion_recognition....
 
 (the end of the file-name describes which dataset was used to train the model)
-```
+
 
 
